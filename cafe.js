@@ -183,7 +183,7 @@ function renderHomePage() {
             </div>
           </div>
           <div class="mt-12 pt-8 border-t border-black/10">
-            <p class="text-center">© Bart Vincent D. Galura | 2025 Purr & Pour Café. All rights reserved.</p>
+            <p class="text-center">© Bart Vincent D. Galura, Justin Paul Ballan, Hilel Yuan David | 2025 Purr & Pour Café. All rights reserved.</p>
           </div>
         </div>
       </footer>
