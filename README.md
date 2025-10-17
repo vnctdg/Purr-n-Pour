@@ -84,9 +84,9 @@ Switch between Coffee, Pastries, and Food categories with smooth transitions.
 
 ## 👨‍💻 Author
 
-**Bart Vincent D. Galura**
-**Hilel Yuan David**
-**Justin Paul Ballan**
+- **Bart Vincent D. Galura**
+- **Hilel Yuan David**
+- **Justin Paul Ballan**
 
 ## 📄 License
 
