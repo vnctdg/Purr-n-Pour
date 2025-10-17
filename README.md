@@ -45,8 +45,8 @@ A modern, responsive coffee shop website built with HTML, CSS, and JavaScript.
    ```bash
    cd Purr-n-Pour
 3. Open cafe.html in your browser:
-    Double-click the file, or
-    Right-click → Open with → Your browser
+   - Double-click the file, or
+   - Right-click → Open with → Your browser
 
 
 ## 📋 Menu Items
